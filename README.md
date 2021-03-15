@@ -1,5 +1,7 @@
-# Hi! 👋 I'm [Pavan Kalyan](https://pavankalyannvs.github.io/) 💻
 
+<p align='center'>
+  # Hi! 👋 I'm [Pavan Kalyan](https://pavankalyannvs.github.io/) 💻
+</p>
 <p align='center'>
 
 ### Let's Connect 🔗
