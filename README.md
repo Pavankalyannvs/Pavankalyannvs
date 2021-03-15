@@ -1,6 +1,7 @@
 
-<p align='center'>
-  # Hi! 👋 I'm [Pavan Kalyan](https://pavankalyannvs.github.io/) 💻
+  
+# Hi! 👋 I'm [Pavan Kalyan](https://pavankalyannvs.github.io/) 💻
+
 ### Let's Connect 🔗
 
 <a href="https://www.linkedin.com/in/pavankalyannvs/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8"></a>
