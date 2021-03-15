@@ -1,6 +1,6 @@
 # Hi! 👋 I'm [Pavan Kalyan](https://pavankalyannvs.github.io/) 💻
 
-
+![Pavan Kalyan's Github Stats](https://github-readme-stats.vercel.app/api?username=Pavankalyannvs&theme=dark)
 
 
 
