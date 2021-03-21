@@ -2,10 +2,10 @@
   
  Hi! 👋 I'm [Pavan Kalyan](https://pavankalyannvs.github.io/) 💻
 
-</h1>
+
 
 ### Let's Connect 🔗
-
+</h1>
 <p align="center">
    <a href="https://www.linkedin.com/in/pavankalyannvs/">
     <img src="https://img.shields.io/badge/LinkedIn-500+-blue?label=LinkedIn&style=for-the-badge&logo=linkedin&logoColor=white0e76a8" />
