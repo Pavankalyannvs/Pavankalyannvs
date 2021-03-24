@@ -14,7 +14,6 @@
 
 <strong><h3 align="center"> 🌟 GitHub Trophies </h3></strong>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pavankalyannvs&title=Issues,Followers,PullRequest,MultipleLang,Stars,Commit&theme=onedark&no-bg=true&no-frame=true" alt="Pavankalyannvs" /></a> </p>
-
 <hr />
 
 <strong><h3 align="center"> 🌟 GitHub Stats </h3></strong>
