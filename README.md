@@ -30,6 +30,7 @@
 <h3 align="center">Connect with me 📫</h3>
 <p align="center">
    <a href="https://www.linkedin.com/in/pavankalyannvs/">
+	   
     <img src="https://img.shields.io/badge/LinkedIn-500+-blue?label=LinkedIn&style=for-the-badge&logo=linkedin&logoColor=white0e76a8" />
   </a>
   <a href="http://twitter.com/pavankalyan_nvs">
@@ -44,6 +45,6 @@
 </p>
 
 
-
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Pavankalyannvs.Pavankalyannvs" alt="visitor badge" style="max-width:100%;">
 
 
