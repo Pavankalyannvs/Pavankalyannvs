@@ -14,7 +14,7 @@
 <hr />
 
 <p align='center'>
-  <a href="#"> <img src="https://github-readme-stats.vercel.app/api?username=Pavankalyannvs&theme=dark" width="350"></a>
+  <a href="#"> <img align="center"src="https://github-readme-stats.vercel.app/api?username=Pavankalyannvs&theme=tokyonight"></a>
 </p>
 
 <hr />
