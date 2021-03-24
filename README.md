@@ -1,11 +1,12 @@
 <h1 align='center'>
   
- Hi! 👋 I'm [Pavan Kalyan](https://pavankalyannvs.github.io/) 💻
+ <h1 align="center">Hi! 👋 I'm Pavan Kalyan</h1>
+<p align="center">
+	<a href="mailto:pavankalyan.nvs@gmail.com" align="center">Send Email</a> |
+	<a href="https://pavankalyannvs.github.io/">Portfolio</a>
 
 
-
-### Let's Connect 🔗
-</h1>
+<h3 align="center">Connect with me</h3>
 <p align="center">
    <a href="https://www.linkedin.com/in/pavankalyannvs/">
     <img src="https://img.shields.io/badge/LinkedIn-500+-blue?label=LinkedIn&style=for-the-badge&logo=linkedin&logoColor=white0e76a8" />
