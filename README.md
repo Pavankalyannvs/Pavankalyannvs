@@ -11,9 +11,7 @@
 
 <br />
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pavankalyannvs&theme=tokyonight&ring=15f4ee&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5" alt="Pavankalyannvs" /></p>
 
-<br />
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pavankalyannvs&title=Issues,Followers,PullRequest,MultipleLang,Stars,Commit&theme=onedark&no-bg=true&no-frame=true" alt="Pavankalyannvs" /></a> </p>
 
@@ -22,9 +20,12 @@
 <p align='center'>
    <strong><h3 align="center"> 🌟 GitHub Stats </h3></strong>
   <a href="#"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pavankalyannvs&theme=tokyonight"></a>
+<a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pavankalyannvs&theme=tokyonight&ring=15f4ee&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5" alt="Pavankalyannvs" /></a>
 </p>
 
-<hr />
+
+
+
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
