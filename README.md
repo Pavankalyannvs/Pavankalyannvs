@@ -10,9 +10,9 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavankalyannvs&layout=compact&theme=tokyonight"/></p>
 
 <br />
+<hr />
 
-
-
+<strong><h3 align="center"> 🌟 GitHub Trophies </h3></strong>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pavankalyannvs&title=Issues,Followers,PullRequest,MultipleLang,Stars,Commit&theme=onedark&no-bg=true&no-frame=true" alt="Pavankalyannvs" /></a> </p>
 
 <hr />
@@ -24,10 +24,10 @@
 </p>
 
 
+<hr />
 
 
-
-<h3 align="center">Connect with me</h3>
+<h3 align="center">Connect with me 📫</h3>
 <p align="center">
    <a href="https://www.linkedin.com/in/pavankalyannvs/">
     <img src="https://img.shields.io/badge/LinkedIn-500+-blue?label=LinkedIn&style=for-the-badge&logo=linkedin&logoColor=white0e76a8" />
