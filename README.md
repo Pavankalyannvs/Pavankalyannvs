@@ -44,6 +44,9 @@
 </p>
 
 
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Pavankalyannvs.Pavankalyannvs" alt="visitor badge" style="max-width:100%;">
+<hr />
 
+<p align="center">
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Pavankalyannvs.Pavankalyannvs" alt="visitor badge" style="max-width:100%;">
+</p>
 
