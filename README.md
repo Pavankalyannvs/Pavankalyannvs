@@ -5,7 +5,19 @@
 	<a href="mailto:pavankalyan.nvs@gmail.com" align="center">Send Email</a> |
 	<a href="https://pavankalyannvs.github.io/">Portfolio</a>
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pavankalyannvs&theme=tokyonight&ring=15f4ee&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5" alt="Pavankalyannvs" /></p>
 
+<br />
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pavankalyannvs&title=Issues,Followers,PullRequest,MultipleLang,Stars,Commit&theme=onedark&no-bg=true&no-frame=true" alt="Pavankalyannvs" /></a> </p>
+
+<hr />
+
+<p align='center'>
+  <a href="#"> <img src="https://github-readme-stats.vercel.app/api?username=Pavankalyannvs&theme=dark" width="350"></a>
+</p>
+
+<hr />
 <h3 align="center">Connect with me</h3>
 <p align="center">
    <a href="https://www.linkedin.com/in/pavankalyannvs/">
@@ -24,7 +36,5 @@
 
 
 
-<p align='center'>
-  <a href="#"> <img src="https://github-readme-stats.vercel.app/api?username=Pavankalyannvs&theme=dark" width="350"></a>
-</p>
+
 
