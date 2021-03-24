@@ -31,7 +31,7 @@
 <p align="center">
    <a href="https://www.linkedin.com/in/pavankalyannvs/">
 	   
-    <img src="https://img.shields.io/badge/LinkedIn-500+-blue?label=LinkedIn&style=for-the-badge&logo=linkedin&logoColor=white0e76a8" />
+   <img src="https://img.shields.io/badge/LinkedIn-500+-blue?label=LinkedIn&style=for-the-badge&logo=linkedin&logoColor=white0e76a8" />
   </a>
   <a href="http://twitter.com/pavankalyan_nvs">
     <img src="https://img.shields.io/twitter/follow/pavankalyan_nvs?label=Twitter&logo=twitter&style=for-the-badge" />
