@@ -1,6 +1,6 @@
 <h1 align='center'>
   
- <h1 align="center">Hi! 👋 I'm Pavan Kalyan</h1>
+ <h1 align="center">Hi!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">I'm Pavan Kalyan</h1>
 <p align="center">
 	<a href="mailto:pavankalyan.nvs@gmail.com" align="center">Send Email</a> |
 	<a href="https://pavankalyannvs.github.io/">Portfolio</a>
